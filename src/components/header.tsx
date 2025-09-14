@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { ThemeToggle } from "@/components/ui/theme-toggle";
 import { Button } from "@/components/ui/button";
 
-import { Menu, X, Sparkles, Wand2, Image, DollarSign, BookOpen, Home, Video, Zap, Clock, Edit, FolderOpen } from "lucide-react";
+import { Menu, X, Sparkles, Image, Home, Video, Zap, Clock, Edit, FolderOpen } from "lucide-react";
 import { useState } from "react";
 
 export function Header() {
